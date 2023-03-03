@@ -1,5 +1,7 @@
 ## React: Not your Generic Note Taking App
 
+## Preview
+![img](https://i.postimg.cc/dtJCv1gc/ezgif-com-video-to-gif.gif)
 ### This is a simple React application for taking notes using OpenAI's GPT-3 model to generate text suggestions.
 
 ### Installation
