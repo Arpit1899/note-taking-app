@@ -19,7 +19,7 @@ npm install
 ```bash
 cd note-taking/src
 ```
-#### Add your OpenAI API Key to the handleKeyDown function in the App.js file
+### Add your {OpenAI API Key} to the handleKeyDown function in the App.js file
 
 Start the development server with:
 ```bash
