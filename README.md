@@ -1,7 +1,9 @@
 ## React Note Taking App
-This is a simple React application for taking notes using OpenAI's GPT-3 model to generate text suggestions.
 
-Installation
+# This is a simple React application for taking notes using OpenAI's GPT-3 model to generate text suggestions.
+
+#Installation
+
 Clone the repository using the command git clone https://github.com/{username}/{repo-name}.git
 Install dependencies with npm install or yarn install
 Usage
